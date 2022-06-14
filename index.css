@@ -3,7 +3,7 @@ body{
 	background-color: RosyBrown;
 }
 
-@media all and (max-width: 240px){
+@media all and (max-width: 420px){
 	body{
 		position: absolute;
 		background-color: red;
