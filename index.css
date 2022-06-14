@@ -8,3 +8,15 @@ body{
 		position: absolute;
 		background: blue;}
 }
+
+
+.danil{
+	position: absolute;
+	background: red;
+}
+
+@media all and (max-width: 240px){
+	.danil{
+		position: absolute;
+		background: blue;}
+}
