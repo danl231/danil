@@ -3,9 +3,9 @@ body{
 	background-color: RosyBrown;
 }
 
-@media all and (max-width: 420px){
+@media all and (max-width: 420px) {
 	body{
 		position: absolute;
-		background-color: red;
+		background-color: black;
 	}
 }
