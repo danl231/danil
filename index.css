@@ -1,0 +1,11 @@
+body{
+	position: absolute;
+	background-color: RosyBrown;
+}
+
+@media all and (max-width: 240px){
+	body{
+		position: absolute;
+		background-color: red;
+	}
+}
