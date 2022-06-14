@@ -6,6 +6,5 @@ body{
 @media all and (max-width: 240px){
 	body{
 		position: absolute;
-		background: blue;
-	}
+		background: blue;}
 }
